@@ -13,7 +13,7 @@
     "passport-oneauth": "^1.0.5",
     "pg": "^7.4.3",
     "pg-hstore": "^2.3.2",
-    "sequelize": "^4.39.0"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "chai": "^4.1.2",
